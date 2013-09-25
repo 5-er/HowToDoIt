@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  margin-top: -50px;
+}
+
+#searchField {
+    width: 70%;
+    height: 20px;
+    position: fixed;
+}
+
+#searchButton {
+    position: fixed;
+    margin-left: 71%;
+}
